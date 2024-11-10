@@ -1,143 +1,74 @@
-# Welcome to My GitHub Profile! 👋
+<h1 align="center">Hi there, I'm Nitin 👋</h1>
 
-Hi there! I'm a backend developer with experience in **Python**, **Java**, and **Golang**. I specialize in building scalable, high-performance applications and APIs. Welcome to my GitHub, where you can explore my projects, contributions, and learn more about my skills.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=4000&pause=500&center=true&width=500&lines=Backend+Developer;Python+|+Java+|+Golang+Enthusiast;Passionate+about+Scalable+Systems" alt="Typing SVG" />
+</p>
 
-![Profile Banner](https://via.placeholder.com/1200x400.png?text=Backend+Developer+in+Python%2C+Java%2C+and+Golang+%7C+Building+the+Future) <!-- Replace with your own cool banner URL -->
+<h2 align="center">👨‍💻 About Me</h2>
 
-## 🔧 Technologies & Tools
+- 💻 I'm a passionate **Backend Developer** with experience in building efficient, scalable, and maintainable systems.
+- 🧑‍🏫 Proficient in **Python**, **Java**, and **Golang** for backend development.
+- 🚀 Currently exploring advanced **system design** and **cloud computing** concepts.
+- 🎓 Certified **Postman API Fundamentals Student Expert**.
 
-I work with a variety of technologies to create efficient backend systems. Here's a quick overview of the tools I use:
+---
 
-### **Languages**:
-- **Python** 🐍  
-  ![Python Logo](https://img.icons8.com/color/48/000000/python.png)
+<h2 align="center">🛠️ Tech Stack</h2>
 
-- **Java** ☕  
-  ![Java Logo](https://img.icons8.com/color/48/000000/java.png)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-- **Golang** 🚀  
-  ![Golang Logo](https://img.icons8.com/color/48/000000/go.png)
+---
 
-- **JavaScript (Node.js)**  
-  ![Node.js Logo](https://img.icons8.com/color/48/000000/nodejs.png)
+<h2 align="center">📂 Featured Projects</h2>
 
-- **TypeScript**  
-  ![TypeScript Logo](https://img.icons8.com/ios/50/000000/typescript.png)
+<p align="center">
+  <a href="https://github.com/Nitin8426/Project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitin8426&repo=Project-1&theme=radical" alt="Project 1 Repo" />
+  </a>
+  <a href="https://github.com/Nitin8426/Project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitin8426&repo=Project-2&theme=radical" alt="Project 2 Repo" />
+  </a>
+</p>
 
-- **C#**  
-  ![C# Logo](https://img.icons8.com/ios/50/000000/c-sharp-logo.png)
+---
 
-### **Frameworks & Libraries**:
-- **Flask (Python)**  
-  ![Flask Logo](https://img.icons8.com/ios/50/000000/flask.png)
-  
-- **Django (Python)**  
-  ![Django Logo](https://img.icons8.com/ios/50/000000/django.png)
+<h2 align="center">📈 GitHub Stats</h2>
 
-- **FastAPI (Python)**  
-  ![FastAPI Logo](https://img.icons8.com/ios/50/000000/fastapi.png)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitin8426&show_icons=true&theme=radical" alt="Nitin's GitHub Stats" />
+</p>
 
-- **Spring Boot (Java)**  
-  ![Spring Boot Logo](https://img.icons8.com/color/48/000000/spring-logo.png)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin8426&theme=radical" alt="GitHub Streak" />
+</p>
 
-- **Jersey (Java)**  
-  ![Jersey Logo](https://img.icons8.com/ios/50/000000/jersey.png)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitin8426&theme=radical" alt="Profile Details" />
+</p>
 
-- **Go Fiber (Golang)**  
-  ![Go Fiber Logo](https://img.icons8.com/color/48/000000/gofiber.png)
+---
 
-- **Gin (Golang)**  
-  ![Gin Logo](https://img.icons8.com/ios/50/000000/gin.png)
+<h2 align="center">🌐 Let's Connect</h2>
 
-- **Express.js (Node.js)**  
-  ![Express.js Logo](https://img.icons8.com/ios/50/000000/express.png)
-
-- **NestJS (Node.js)**  
-  ![NestJS Logo](https://img.icons8.com/ios/50/000000/nestjs.png)
-
-### **Databases**:
-- **MySQL**  
-  ![MySQL Logo](https://img.icons8.com/ios/50/000000/mysql.png)
-
-- **PostgreSQL**  
-  ![PostgreSQL Logo](https://img.icons8.com/ios/50/000000/postgreesql.png)
-
-- **MongoDB**  
-  ![MongoDB Logo](https://img.icons8.com/ios/50/000000/mongodb.png)
-
-- **Redis**  
-  ![Redis Logo](https://img.icons8.com/ios/50/000000/redis.png)
-
-- **SQLite**  
-  ![SQLite Logo](https://img.icons8.com/ios/50/000000/sqlite.png)
-
-- **Elasticsearch**  
-  ![Elasticsearch Logo](https://img.icons8.com/ios/50/000000/elasticsearch.png)
-
-- **Cassandra**  
-  ![Cassandra Logo](https://img.icons8.com/ios/50/000000/cassandra.png)
-
-### **DevOps & Tools**:
-- **Docker**  
-  ![Docker Logo](https://img.icons8.com/ios/50/000000/docker.png)
-
-- **Kubernetes**  
-  ![Kubernetes Logo](https://img.icons8.com/ios/50/000000/kubernetes.png)
-
-- **CI/CD**  
-  ![CI/CD Logo](https://img.icons8.com/ios/50/000000/ci-cd.png)
-
-- **Jenkins**  
-  ![Jenkins Logo](https://img.icons8.com/ios/50/000000/jenkins.png)
-
-- **Terraform**  
-  ![Terraform Logo](https://img.icons8.com/ios/50/000000/terraform.png)
-
-- **Nginx**  
-  ![Nginx Logo](https://img.icons8.com/ios/50/000000/nginx.png)
-
-- **Apache Kafka**  
-  ![Apache Kafka Logo](https://img.icons8.com/ios/50/000000/apache-kafka.png)
-
-- **RabbitMQ**  
-  ![RabbitMQ Logo](https://img.icons8.com/ios/50/000000/rabbitmq.png)
-
-### **Version Control & Collaboration**:
-- **Git**  
-  ![Git Logo](https://img.icons8.com/ios/50/000000/git.png)
-
-- **GitHub**  
-  ![GitHub Logo](https://img.icons8.com/ios/50/000000/github.png)
-
-- **GitLab**  
-  ![GitLab Logo](https://img.icons8.com/ios/50/000000/gitlab.png)
-
-- **Bitbucket**  
-  ![Bitbucket Logo](https://img.icons8.com/ios/50/000000/bitbucket.png)
-
-## 🌱 Currently Learning
-- **Advanced Go Techniques** for more efficient backend systems.
-- **Microservices Architecture** and **Event-Driven Architecture**.
-
-## 👨‍💻 My Projects
-Here are some of the projects I've worked on:
-
-- **[Project Name](https://github.com/your-username/project-name)**: Brief description of what the project is about.  
-  ![Project Image](https://via.placeholder.com/300x200.png?text=Project+Image) <!-- Replace with your own project image -->
-
-- **[Another Project](https://github.com/your-username/another-project)**: Description of another project.  
-  ![Project Image](https://via.placeholder.com/300x200.png?text=Project+Image) <!-- Replace with your own project image -->
-
-## 🚀 GitHub Stats
-
-![Nitin8426 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitin8426&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
-
-## 💬 Get in Touch
-- **Email**: [nitintripathi8426@gmail.com](mailto:nitintripathi8426@gmail.com)
-- **LinkedIn**: [Nitin Tripathi](https://www.linkedin.com/in/nitin-tripathi-432953257/)
-
-## ⚡ Fun Fact
-When I'm not coding, I enjoy playing video games 🎮 and learning new tech trends!
+<p align="center">
+  <a href="https://www.linkedin.com/in/nitin-tripathi-432953257/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nitintripathi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Nitin8426" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ## 🏆 Girlscript Summer of Code (GSSoC) Achievements & Badges
 
@@ -163,5 +94,3 @@ As a participant in **Girlscript Summer of Code (GSSoC)**, I've earned several b
 </div>
 
 ---
-
-![Animated GIF](https://media.giphy.com/media/your-gif-link.gif) <!-- Add an animated GIF for fun -->
