@@ -30,10 +30,10 @@
 <h2 align="center">📂 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/Nitin8426/Project-1">
+  <a href="https://github.com/Nitin8426/Financial-Analysis-Project.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitin8426&repo=Project-1&theme=radical" alt="Project 1 Repo" />
   </a>
-  <a href="https://github.com/Nitin8426/Project-2">
+  <a href="https://github.com/Nitin8426/redis-golang-project.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitin8426&repo=Project-2&theme=radical" alt="Project 2 Repo" />
   </a>
 </p>
