@@ -31,10 +31,10 @@
 
 <p align="center">
   <a href="https://github.com/Nitin8426/Financial-Analysis-Project.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitin8426&repo=Project-1&theme=radical" alt="Project 1 Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitin8426&repo=Financial-Analysis-Project&theme=radical" alt="Financial Analysis Project Repo" />
   </a>
   <a href="https://github.com/Nitin8426/redis-golang-project.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitin8426&repo=Project-2&theme=radical" alt="Project 2 Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitin8426&repo=redis-golang-project&theme=radical" alt="Redis Golang Project Repo" />
   </a>
 </p>
 
